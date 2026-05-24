@@ -1,0 +1,3 @@
+Python commands:
+(base) C:\Users\sk>conda activate vote
+(vote) C:\Users\sk>python "face recognition code.py"
